@@ -1,658 +1,558 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.25): 1727319310022 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.25): 1727320508665 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319313090 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320511727 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319316164 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320514785 tunnel running, 1 tunnels registered
 
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319319259 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319322330 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319325610 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319328680 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319331749 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319334832 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319337952 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319341021 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319344092 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319347208 tunnel running, 2 tunnels registered
+Email not verified https://playit.gg/account/setting[2J8[0mInvalid input: "oo"
+Visit link to setup https://playit.gg/claim/1445ac6fd7
+Close requested, close program? (Y/n)? : 1727320517872 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319350280 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320520959 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319353354 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320524039 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319356423 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320527107 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319359492 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320530171 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319362559 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320533233 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319365631 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320536294 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319368703 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320539357 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319371775 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320542423 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319374844 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320545503 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319377923 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320548566 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319381015 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320551623 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319384082 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320554970 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319387152 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320558053 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319390223 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320561128 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319393295 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320564204 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319397282 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320567267 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319402359 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320570337 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319405904 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320575057 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319408965 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320578124 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319413935 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320581403 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319417015 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320584471 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319420082 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320587533 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319423146 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320590607 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319426234 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320593676 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319429306 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320596743 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319432371 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320599805 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319435473 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320602879 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319438549 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320605937 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319441609 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320609019 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319444673 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320612088 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319447750 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320617135 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319450817 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1727320620202 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319453890 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tunnel pending: https://playit.gg/account/tunnels/db7a0af1-086b-4345-86fd-41695e3b5bb6
+[2J8[0mplayit (v0.15.25): 1727320623280 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319457002 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+tunnel pending: https://playit.gg/account/tunnels/db7a0af1-086b-4345-86fd-41695e3b5bb6
+[2J8[0mplayit (v0.15.25): 1727320628209 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319461720 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:24465 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320631270 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319464801 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:24465 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320634332 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319467867 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:24465 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320637395 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319470984 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:24465 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320640453 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319474049 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:24465 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320643518 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319477114 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:24465 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320646598 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319480181 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:24465 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320649670 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319483499 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:24465 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320652769 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319486582 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320655850 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319489651 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320658913 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319493829 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320663465 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319496898 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320666526 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319499961 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320669594 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319503049 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320672667 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319506119 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320675735 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319509195 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320678797 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319512267 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320681867 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319515344 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320684932 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319519673 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320687999 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319524184 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320691064 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319527255 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320694125 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319530326 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320697468 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319533403 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320700534 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319536488 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320704575 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319540389 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320707659 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319543456 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320710730 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319546526 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320713794 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319549599 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320716867 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319552692 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320719938 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319555757 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320723003 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319558826 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320726067 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319561887 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320729867 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319564953 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320732932 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319568015 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320736008 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319571084 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320739072 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319574736 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320742141 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319578391 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320745217 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319581456 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320748963 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319584528 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320752027 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319587596 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320755091 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319590661 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320758166 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319593752 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320761235 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319596905 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320764304 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319599976 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320767376 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319603038 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320770441 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319606103 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320773513 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.25): 1727319609169 tunnel running, 2 tunnels registered
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.25): 1727320777862 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-resolution-bracelet.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-independent-coastal.gl.at.ply.gg:1538 => 127.0.0.1:1538 (proto: Udp, port count: 1)
+football-matt.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+additional-tools.gl.at.ply.gg:3681 => 127.0.0.1:3681 (proto: Udp, port count: 1)
