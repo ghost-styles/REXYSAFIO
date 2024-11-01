@@ -1,136 +1,131 @@
-[04:37:23] [ServerMain/ERROR]: Failed to load properties from file: server.properties
-[04:37:23] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04:37:25] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:37:25] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:37:25] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[04:37:25] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[04:37:25] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:37:26] [Worker-Main-6/INFO]: Loaded 7 recipes
-[04:37:26] [Worker-Main-6/INFO]: Loaded 1141 advancements
-[04:37:28] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[04:37:28] [Server thread/INFO]: Loading properties
-[04:37:28] [Server thread/INFO]: Default game type: SURVIVAL
-[04:37:28] [Server thread/INFO]: Generating keypair
-[04:37:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:37:28] [Server thread/INFO]: Using epoll channel type
-[04:37:28] [Server thread/INFO]: Preparing level "world"
-[04:37:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:37:45] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[04:37:45] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[04:37:45] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[04:37:46] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[04:37:46] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[04:37:47] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[04:37:47] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[04:37:48] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[04:37:48] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[04:37:49] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[04:37:49] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[04:37:50] [Worker-Main-4/INFO]: Preparing spawn area: 1%
-[04:37:50] [Worker-Main-4/INFO]: Preparing spawn area: 1%
-[04:37:51] [Worker-Main-6/INFO]: Preparing spawn area: 1%
-[04:37:51] [Worker-Main-6/INFO]: Preparing spawn area: 2%
-[04:37:52] [Worker-Main-6/INFO]: Preparing spawn area: 2%
-[04:37:52] [Worker-Main-5/INFO]: Preparing spawn area: 2%
-[04:37:53] [Worker-Main-6/INFO]: Preparing spawn area: 3%
-[04:37:53] [Worker-Main-5/INFO]: Preparing spawn area: 4%
-[04:37:54] [Worker-Main-5/INFO]: Preparing spawn area: 4%
-[04:37:54] [Worker-Main-4/INFO]: Preparing spawn area: 6%
-[04:37:55] [Worker-Main-6/INFO]: Preparing spawn area: 6%
-[04:37:55] [Worker-Main-5/INFO]: Preparing spawn area: 6%
-[04:37:56] [Worker-Main-6/INFO]: Preparing spawn area: 7%
-[04:37:56] [Worker-Main-6/INFO]: Preparing spawn area: 9%
-[04:37:57] [Worker-Main-5/INFO]: Preparing spawn area: 9%
-[04:37:57] [Worker-Main-6/INFO]: Preparing spawn area: 9%
-[04:37:58] [Worker-Main-6/INFO]: Preparing spawn area: 10%
-[04:37:58] [Worker-Main-6/INFO]: Preparing spawn area: 11%
-[04:37:59] [Worker-Main-5/INFO]: Preparing spawn area: 11%
-[04:37:59] [Worker-Main-4/INFO]: Preparing spawn area: 13%
-[04:38:00] [Worker-Main-6/INFO]: Preparing spawn area: 14%
-[04:38:00] [Worker-Main-6/INFO]: Preparing spawn area: 15%
-[04:38:01] [Worker-Main-4/INFO]: Preparing spawn area: 15%
-[04:38:01] [Worker-Main-6/INFO]: Preparing spawn area: 16%
-[04:38:02] [Worker-Main-5/INFO]: Preparing spawn area: 17%
-[04:38:02] [Worker-Main-4/INFO]: Preparing spawn area: 18%
-[04:38:03] [Worker-Main-6/INFO]: Preparing spawn area: 18%
-[04:38:03] [Worker-Main-4/INFO]: Preparing spawn area: 20%
-[04:38:04] [Worker-Main-4/INFO]: Preparing spawn area: 21%
-[04:38:04] [Worker-Main-6/INFO]: Preparing spawn area: 22%
-[04:38:05] [Worker-Main-5/INFO]: Preparing spawn area: 23%
-[04:38:05] [Worker-Main-5/INFO]: Preparing spawn area: 23%
-[04:38:06] [Worker-Main-4/INFO]: Preparing spawn area: 24%
-[04:38:06] [Worker-Main-6/INFO]: Preparing spawn area: 25%
-[04:38:07] [Worker-Main-4/INFO]: Preparing spawn area: 26%
-[04:38:07] [Worker-Main-6/INFO]: Preparing spawn area: 27%
-[04:38:08] [Worker-Main-4/INFO]: Preparing spawn area: 29%
-[04:38:08] [Worker-Main-6/INFO]: Preparing spawn area: 30%
-[04:38:09] [Worker-Main-6/INFO]: Preparing spawn area: 31%
-[04:38:09] [Worker-Main-5/INFO]: Preparing spawn area: 32%
-[04:38:10] [Worker-Main-6/INFO]: Preparing spawn area: 33%
-[04:38:10] [Worker-Main-6/INFO]: Preparing spawn area: 33%
-[04:38:11] [Worker-Main-5/INFO]: Preparing spawn area: 34%
-[04:38:11] [Worker-Main-6/INFO]: Preparing spawn area: 36%
-[04:38:12] [Worker-Main-5/INFO]: Preparing spawn area: 37%
-[04:38:12] [Worker-Main-6/INFO]: Preparing spawn area: 38%
-[04:38:13] [Worker-Main-5/INFO]: Preparing spawn area: 39%
-[04:38:13] [Worker-Main-4/INFO]: Preparing spawn area: 40%
-[04:38:14] [Worker-Main-4/INFO]: Preparing spawn area: 41%
-[04:38:14] [Worker-Main-6/INFO]: Preparing spawn area: 42%
-[04:38:15] [Worker-Main-6/INFO]: Preparing spawn area: 43%
-[04:38:15] [Worker-Main-4/INFO]: Preparing spawn area: 44%
-[04:38:16] [Worker-Main-5/INFO]: Preparing spawn area: 44%
-[04:38:16] [Worker-Main-5/INFO]: Preparing spawn area: 45%
-[04:38:17] [Worker-Main-4/INFO]: Preparing spawn area: 46%
-[04:38:17] [Worker-Main-4/INFO]: Preparing spawn area: 48%
-[04:38:18] [Worker-Main-4/INFO]: Preparing spawn area: 49%
-[04:38:18] [Worker-Main-6/INFO]: Preparing spawn area: 51%
-[04:38:19] [Worker-Main-4/INFO]: Preparing spawn area: 53%
-[04:38:19] [Worker-Main-5/INFO]: Preparing spawn area: 54%
-[04:38:20] [Worker-Main-4/INFO]: Preparing spawn area: 55%
-[04:38:20] [Worker-Main-4/INFO]: Preparing spawn area: 55%
-[04:38:21] [Worker-Main-4/INFO]: Preparing spawn area: 56%
-[04:38:21] [Worker-Main-4/INFO]: Preparing spawn area: 58%
-[04:38:22] [Worker-Main-5/INFO]: Preparing spawn area: 59%
-[04:38:22] [Worker-Main-6/INFO]: Preparing spawn area: 60%
-[04:38:23] [Worker-Main-6/INFO]: Preparing spawn area: 62%
-[04:38:23] [Worker-Main-6/INFO]: Preparing spawn area: 63%
-[04:38:24] [Worker-Main-5/INFO]: Preparing spawn area: 65%
-[04:38:24] [Worker-Main-6/INFO]: Preparing spawn area: 66%
-[04:38:25] [Worker-Main-4/INFO]: Preparing spawn area: 68%
-[04:38:25] [Worker-Main-4/INFO]: Preparing spawn area: 68%
-[04:38:26] [Worker-Main-6/INFO]: Preparing spawn area: 69%
-[04:38:26] [Worker-Main-6/INFO]: Preparing spawn area: 70%
-[04:38:27] [Worker-Main-5/INFO]: Preparing spawn area: 71%
-[04:38:27] [Worker-Main-4/INFO]: Preparing spawn area: 72%
-[04:38:28] [Worker-Main-4/INFO]: Preparing spawn area: 74%
-[04:38:28] [Worker-Main-6/INFO]: Preparing spawn area: 75%
-[04:38:29] [Worker-Main-4/INFO]: Preparing spawn area: 77%
-[04:38:29] [Worker-Main-5/INFO]: Preparing spawn area: 78%
-[04:38:30] [Worker-Main-6/INFO]: Preparing spawn area: 80%
-[04:38:30] [Worker-Main-4/INFO]: Preparing spawn area: 81%
-[04:38:31] [Worker-Main-5/INFO]: Preparing spawn area: 82%
-[04:38:31] [Worker-Main-4/INFO]: Preparing spawn area: 83%
-[04:38:32] [Worker-Main-4/INFO]: Preparing spawn area: 84%
-[04:38:32] [Worker-Main-4/INFO]: Preparing spawn area: 85%
-[04:38:33] [Worker-Main-6/INFO]: Preparing spawn area: 86%
-[04:38:33] [Worker-Main-5/INFO]: Preparing spawn area: 88%
-[04:38:34] [Worker-Main-4/INFO]: Preparing spawn area: 89%
-[04:38:34] [Worker-Main-6/INFO]: Preparing spawn area: 91%
-[04:38:35] [Worker-Main-4/INFO]: Preparing spawn area: 92%
-[04:38:35] [Worker-Main-6/INFO]: Preparing spawn area: 94%
-[04:38:36] [Worker-Main-4/INFO]: Preparing spawn area: 95%
-[04:38:36] [Worker-Main-6/INFO]: Preparing spawn area: 97%
-[04:38:37] [Worker-Main-5/INFO]: Preparing spawn area: 98%
-[04:38:37] [Server thread/INFO]: Time elapsed: 52831 ms
-[04:38:37] [Server thread/INFO]: Done (68.762s)! For help, type "help"
-[04:40:14] [Server thread/INFO]: Stopping the server
-[04:40:14] [Server thread/INFO]: Stopping server
-[04:40:14] [Server thread/INFO]: Saving players
-[04:40:14] [Server thread/INFO]: Saving worlds
-[04:40:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:40:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[04:40:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[04:40:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:40:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:40:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:40:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Nov2024 04:55:19.054] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[01Nov2024 04:55:19.058] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 21.0.4 by Microsoft
+[01Nov2024 04:55:19.148] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/REXYSAFIO/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2316!/ Service=ModLauncher Env=SERVER
+[01Nov2024 04:55:19.179] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/REXYSAFIO/servidor_minecraft/config/fml.toml is not correct. Correcting
+[01Nov2024 04:55:19.184] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [defaultConfigPath] was corrected from null to defaultconfigs
+[01Nov2024 04:55:19.383] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/REXYSAFIO/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
+[01Nov2024 04:55:19.385] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/REXYSAFIO/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[01Nov2024 04:55:19.387] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/REXYSAFIO/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[01Nov2024 04:55:19.388] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/REXYSAFIO/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[01Nov2024 04:55:19.453] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[01Nov2024 04:55:20.819] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[01Nov2024 04:55:21.187] [main/INFO] [org.magmafoundation.magma.protect.InjectProtect/]: Booting up InjectProtect
+[01Nov2024 04:55:25.893] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
+[01Nov2024 04:55:25.895] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
+[01Nov2024 04:55:26.375] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/REXYSAFIO/servidor_minecraft/config/forge-common.toml is not correct. Correcting
+[01Nov2024 04:55:26.376] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
+[01Nov2024 04:55:26.377] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.defaultWorldType was corrected from null to its default, default. 
+[01Nov2024 04:55:26.445] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[01Nov2024 04:55:26.623] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 40.2.21 Target: null
+[01Nov2024 04:55:27.395] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01Nov2024 04:55:27.604] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/REXYSAFIO/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2357!/assets/.mcassetsroot' uses unexpected schema
+[01Nov2024 04:55:27.605] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/REXYSAFIO/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2357!/data/.mcassetsroot' uses unexpected schema
+[01Nov2024 04:55:27.629] [main/INFO] [net.minecraft.server.MinecraftServer/]: Found new data pack file/bukkit, loading it automatically
+[01Nov2024 04:55:27.635] [main/INFO] [net.minecraft.server.MinecraftServer/]: Found new data pack file/bukkit, loading it automatically
+[01Nov2024 04:55:30.044] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[01Nov2024 04:55:31.292] [main/INFO] [org.magmafoundation.magma.patcher.PatcherManager/]: Essentials [Patches LegacyQueryHandler errors] loaded
+[01Nov2024 04:55:31.292] [main/INFO] [org.magmafoundation.magma.patcher.PatcherManager/]: FastAsyncWorldEdit [Patches FAWE] loaded
+[01Nov2024 04:55:31.292] [main/INFO] [org.magmafoundation.magma.patcher.PatcherManager/]: WorldEdit [Patches WorldEdit] loaded
+[01Nov2024 04:55:31.293] [main/INFO] [org.magmafoundation.magma.patcher.PatcherManager/]: 3 patches loaded!
+[01Nov2024 04:55:31.294] [main/INFO] [org.magmafoundation.magma.error.StackTraceDeobfuscator/]: Loading mappings...
+[01Nov2024 04:55:31.575] [main/INFO] [org.magmafoundation.magma.util.IntermediaryMappings/]: Loaded 4753 intermediary mappings
+[01Nov2024 04:55:32.038] [main/INFO] [org.magmafoundation.magma.error.StackTraceDeobfuscator/]: Loaded 32358 mappings
+[01Nov2024 04:55:32.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[01Nov2024 04:55:32.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[01Nov2024 04:55:32.255] [Server thread/INFO] [Minecraft/]: This server is running Magma version git-Magma-1.18.2-fb87ac0 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT)
+[01Nov2024 04:55:32.571] [Server thread/INFO] [org.magmafoundation.magma.Magma/]: Injected 0 modded materials (0 blocks, 0 items)
+[01Nov2024 04:55:32.799] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[01Nov2024 04:55:32.800] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[01Nov2024 04:55:32.802] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[01Nov2024 04:55:32.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[01Nov2024 04:55:32.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[01Nov2024 04:55:32.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[01Nov2024 04:55:32.992] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[01Nov2024 04:55:33.112] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01Nov2024 04:55:33.112] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[01Nov2024 04:55:33.112] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01Nov2024 04:55:33.112] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[01Nov2024 04:55:33.119] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[01Nov2024 04:55:33.120] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[01Nov2024 04:55:33.120] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[01Nov2024 04:55:33.120] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[01Nov2024 04:55:33.120] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[01Nov2024 04:55:33.121] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
+[01Nov2024 04:55:33.121] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
+[01Nov2024 04:55:33.121] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.treatEmptyTagsAsAir was corrected from null to its default, false. 
+[01Nov2024 04:55:33.121] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.skipEmptyShapelessCheck was corrected from null to its default, true. 
+[01Nov2024 04:55:33.121] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixAdvancementLoading was corrected from null to its default, true. 
+[01Nov2024 04:55:33.121] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[01Nov2024 04:55:33.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[01Nov2024 04:55:33.149] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[01Nov2024 04:55:33.150] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[01Nov2024 04:55:33.151] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[01Nov2024 04:55:33.152] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[01Nov2024 04:55:33.152] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[01Nov2024 04:55:33.153] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[01Nov2024 04:55:33.153] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[01Nov2024 04:55:33.153] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[01Nov2024 04:55:33.154] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[01Nov2024 04:55:33.154] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[01Nov2024 04:55:33.155] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[01Nov2024 04:55:33.155] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[01Nov2024 04:55:33.155] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[01Nov2024 04:55:33.156] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[01Nov2024 04:55:33.156] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[01Nov2024 04:55:33.156] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[01Nov2024 04:55:33.157] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[01Nov2024 04:55:33.157] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[01Nov2024 04:55:33.157] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[01Nov2024 04:55:33.158] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[01Nov2024 04:55:33.160] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[01Nov2024 04:55:33.162] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01Nov2024 04:55:33.164] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01Nov2024 04:55:33.168] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[01Nov2024 04:55:33.169] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[01Nov2024 04:55:33.169] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01Nov2024 04:55:33.169] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[01Nov2024 04:55:33.170] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01Nov2024 04:55:33.171] [Server thread/INFO] [Minecraft/]: View Distance: 5
+[01Nov2024 04:55:33.171] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[01Nov2024 04:55:33.172] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[01Nov2024 04:55:33.172] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[01Nov2024 04:55:33.172] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01Nov2024 04:55:33.185] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[01Nov2024 04:55:33.186] [Server thread/INFO] [Minecraft/]: Fishing time ranges are between 100 and 600 ticks
+[01Nov2024 04:55:33.187] [Server thread/INFO] [Minecraft/]: Mobs in monster Despawn Ranges: Soft32 Hard: 128
+[01Nov2024 04:55:33.187] [Server thread/INFO] [Minecraft/]: Mobs in creature Despawn Ranges: Soft32 Hard: 128
+[01Nov2024 04:55:33.187] [Server thread/INFO] [Minecraft/]: Mobs in ambient Despawn Ranges: Soft32 Hard: 128
+[01Nov2024 04:55:33.188] [Server thread/INFO] [Minecraft/]: Mobs in axolotls Despawn Ranges: Soft32 Hard: 128
+[01Nov2024 04:55:33.188] [Server thread/INFO] [Minecraft/]: Mobs in underground_water_creature Despawn Ranges: Soft32 Hard: 128
+[01Nov2024 04:55:33.189] [Server thread/INFO] [Minecraft/]: Mobs in water_creature Despawn Ranges: Soft32 Hard: 128
+[01Nov2024 04:55:33.189] [Server thread/INFO] [Minecraft/]: Mobs in water_ambient Despawn Ranges: Soft32 Hard: 64
+[01Nov2024 04:55:33.189] [Server thread/INFO] [Minecraft/]: Mobs in misc Despawn Ranges: Soft32 Hard: 128
+[01Nov2024 04:55:33.190] [Server thread/INFO] [Minecraft/]: Keep spawn chunk loaded: true
+[01Nov2024 04:55:33.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[01Nov2024 04:55:34.077] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Nov2024 04:55:34.090] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Nov2024 04:55:34.402] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Nov2024 04:55:34.902] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Nov2024 04:55:35.402] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Nov2024 04:55:36.006] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[01Nov2024 04:55:36.404] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
+[01Nov2024 04:55:36.902] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
+[01Nov2024 04:55:37.913] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
+[01Nov2024 04:55:37.913] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
+[01Nov2024 04:55:37.973] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4572 ms
+[01Nov2024 04:55:37.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.858s)! For help, type "help"
+[01Nov2024 04:55:37.982] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[01Nov2024 04:55:37.983] [Server thread/INFO] [org.magmafoundation.magma.Magma/]: Forwarding forge permission[magma:permission] to bukkit
+[01Nov2024 04:55:37.987] [Server thread/INFO] [Minecraft/]: Timings Reset
+[01Nov2024 04:57:11.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[01Nov2024 04:57:11.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Nov2024 04:57:11.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Nov2024 04:57:11.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Nov2024 04:57:13.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Nov2024 04:57:37.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Nov2024 04:57:37.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Nov2024 04:57:37.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Nov2024 04:57:37.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Nov2024 04:57:37.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Nov2024 04:57:37.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Nov2024 04:57:42.752] [Exit Thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 6 threads not shutting down correctly, force exiting
